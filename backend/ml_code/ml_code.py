@@ -47,4 +47,4 @@ plt.show()
 
 # Step 7 - Make new prediction
 new_credit_score = regressor.predict([[1100]])
-print('The predicted salary of a person with 1500 stipend is ',new_credit_score)
+print('The predicted credit score of a student with 1100 stipend is ',new_credit_score)
